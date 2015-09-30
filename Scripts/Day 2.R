@@ -1,5 +1,6 @@
 ##R course DAY TWO 
 ##29 Sept 2015
+##that was awesome
 
 
 # load packages -----------------------------------------------------------
